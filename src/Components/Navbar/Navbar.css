@@ -19,6 +19,7 @@ nav {
 
 .logo {
   width: 320px;
+  /* justify-content: left; */
 }
 
 nav ul li {
