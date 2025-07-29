@@ -1,19 +1,15 @@
 
-import Navbar from './Components/Navbar/Navbar'
-
-
-
+import "./index.css"
+import Navbar from "./Components/Navbar/Navbar";
+import Hero from "./Components/Hero/Hero";
 
 const App = () => {
   return (
-
     <div>
-      
-      <Navbar/>
+      <Navbar />
+      <Hero />
     </div>
-  
-  )
+  );
+};
 
-}
-
-export default App
+export default App;
